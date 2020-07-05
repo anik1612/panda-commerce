@@ -23,3 +23,57 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat-1{
+    background-color: #f39c12;
+}
+
+.cat-2{
+    background-color: #9b59b6;
+}
+
+.cat-3{
+    background-color: #2980b9;
+}
+
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.categories h1{
+    color: #fff;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+#subscribe{
+    height: 300px;
+}
+
+#subscribe h6{
+    color: dimgray;
+    font-size: 15px;
+    text-align: center;
+}
+
+#subscribe input{
+    margin-bottom: 5px;
+}
+
+footer{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+footer span {
+    color: tomato;
+    font-weight: bold;
+}
